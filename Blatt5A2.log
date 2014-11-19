@@ -1,0 +1,273 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.28)  12 NOV 2014 17:22
+entering extended mode
+**Blatt5A2.tex
+("C:\Users\philipp\Desktop\Informatik\Ãœbungen\Ãœbung 5\Aufgabe 2\Blatt5A2.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(H:\MikTex\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(H:\MikTex\tex\latex\base\size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(H:\MikTex\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen103
+)
+(H:\MikTex\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(H:\MikTex\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(H:\MikTex\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(H:\MikTex\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(H:\MikTex\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(H:\MikTex\tex\latex\amscls\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+(H:\MikTex\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(H:\MikTex\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\philipp\Desktop\Informatik\Ãœbungen\Ãœbung 5\Aufgabe 2\Blatt5A2.aux"
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Try loading font information for U+msa on input line 11.
+ (H:\MikTex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 11.
+ (H:\MikTex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24 	& Punkte & Maximal & \Delta
+                                  \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.25 \hline
+           
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.25 \hline
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.25 \hline
+           
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \vbox (0.561pt too high) detected at line 26
+ []
+
+
+Overfull \vbox (0.561pt too high) detected at line 27
+ []
+
+
+Overfull \vbox (0.561pt too high) detected at line 28
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.40 ...es Pythagoras errechnet sich wie folgt: a^
+                                                  {2}+b^{2}=c^{2}.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.41 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 c = \sqrt{
+               {a^{2}+b^{2}}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.45 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \[
+       s= \sum_{i=1}^n i\ =\left(\frac{n(n+1)}{2}\right)
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.52 \end{equation}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[1
+
+{C:/Users/philipp/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("C:\Users\philipp\Desktop\Informatik\Ãœbungen\Ãœbung 5\Aufgabe 2\Blatt5A2.aux"
+) ) 
+Here is how much of TeX's memory you used:
+ 1212 strings out of 493921
+ 13458 string characters out of 3154493
+ 64004 words of memory out of 3000000
+ 4537 multiletter control sequences out of 15000+200000
+ 11044 words of font info for 42 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,9n,26p,223b,197s stack positions out of 5000i,500n,10000p,200000b,50000s
+<H:/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><H:/MikTex/fonts/type1/
+public/amsfonts/cm/cmex10.pfb><H:/MikTex/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb><H:/MikTex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><H:/MikTex/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><H:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pf
+b><H:/MikTex/fonts/type1/public/amsfonts/cm/cmr17.pfb><H:/MikTex/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><H:/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+
+Output written on Blatt5A2.pdf (1 page, 98598 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
